@@ -1,7 +1,7 @@
 # User-Agreement
 END USER LICENSE AGREEMENT
 (“Agreement”)
-
+Ссылка на интерфейс: https://media.discordapp.net/attachments/1338045024717508712/1350831979582591056/IMG_3568.png?ex=67d82bd1&is=67d6da51&hm=eee9190025d06c461c4d7f3a97c3cb785e4e2a994afb9a83a5ec44743ce6d03d&=&format=webp&quality=lossless 
 IMPORTANT: Please read this Agreement carefully before using the Program. By installing, launching, or otherwise using the Program, you agree to be bound by all terms and conditions of this Agreement without exception. If you do not agree with any of these terms, do not install or use the Program.
 
 1. Definitions
